@@ -1,0 +1,7 @@
+{
+  "name": "budgetZuluApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

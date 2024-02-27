@@ -1,0 +1,24 @@
+.btn-zulu {
+  background: #3E434E;
+  box-shadow: inset 5px 5px 10px #1d1d1f,
+            inset -5px -5px 10px #4c5260;
+  padding: 13px 10px;
+  width: 100%;
+  border-radius: 7px;
+  border-color: rgba(83, 89, 102, 1);
+  border-width: 1px;
+  border-style: solid;
+  color: #ffffff;
+  transition: box-shadow 0.1s ease-in-out;
+  font-size: 15px;
+  text-align: center;
+  text-shadow: 1px 1px 1px #4c5260;
+  letter-spacing: 1px;
+}
+
+.btn-zulu:hover {
+  background: #3E434E;
+  box-shadow: inset -5px -5px 12px #30343c,
+            inset 5px 5px 12px #4c5260;
+  border-color: rgba(83, 89, 102, 1);
+}
